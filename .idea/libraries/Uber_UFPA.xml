@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Uber_UFPA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Uber_UFPA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
